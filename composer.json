@@ -1,9 +1,9 @@
 {
-    "name": "bitly/bitly-api-php",
+    "name": "ddonuts/bitly-api-php",
     "type": "library",
     "description": "PHP client for the Bitly API",
     "keywords": ["bitly", "api"],
-    "homepage": "https://github.com/bitly/bitly-api-php",
+    "homepage": "https://github.com/ddonuts/bitly-api-php",
     "authors": [
         {
             "name": "James Socol",
